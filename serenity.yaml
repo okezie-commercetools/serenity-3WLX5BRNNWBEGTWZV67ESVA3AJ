@@ -1,0 +1,6 @@
+chart: ./
+name: serenity-demo
+staging:
+  autoMerge: true
+  clusters:
+  - name: in-cluster
